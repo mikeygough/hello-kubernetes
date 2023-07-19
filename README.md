@@ -3,6 +3,15 @@ Learning - Deploy Django into Production with Kubernetes, Docker, &amp; Github A
 
 Following along with [this tutorial](https://www.youtube.com/watch?v=NAOsLaB6Lfc&t=63s).
 
+Kubernetes manages Docker Containers... (Container Orchestration Tool)
+
+Install Kubernetes Command-Line Tool, KubeCTL. In the terminal, w/ virtual environment activated, I ran:
+
+'brew install kubectl'
+
+To check the version:
+
+'kubectl version --client'
 
 ### Django
 Install Django:
