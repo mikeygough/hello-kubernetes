@@ -21,6 +21,16 @@ Create /web for all django stuff
 
 pip install "django>=3.2,<4.0"
 
+Then write out the requirements and install within web/
+
+'pip install -r requirements.txt'
+
+Then start the Django project
+
+'django-admin startproject hello_kubernetes .'
+
+
+
 ### Django
 Install Django:
 
