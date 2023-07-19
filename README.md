@@ -13,6 +13,14 @@ To check the version:
 
 'kubectl version --client'
 
+Create /web for all django stuff
+
+'mkdir web'
+
+'cd web'
+
+pip install "django>=3.2,<4.0"
+
 ### Django
 Install Django:
 
@@ -198,6 +206,10 @@ _where URL_NAME is the name assigned to a path in urls.py and APP_NAME is the va
 Create Python3 Virtual Environment:
 
 ```python3 -m venv env```
+
+Upgrade Virtual Environment Pip (w/ Virtual Environment Activated):
+
+```pip install pip --upgrade```
 
 Activate Virtual Environment:
 
