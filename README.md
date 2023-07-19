@@ -29,7 +29,11 @@ Then start the Django project
 
 'django-admin startproject hello_kubernetes .'
 
+Create .env:
 
+code .env
+
+Add web/.env to .gitignore
 
 ### Django
 Install Django:
