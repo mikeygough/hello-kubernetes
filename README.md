@@ -1,6 +1,8 @@
 # hello-kubernetes
 Learning - Deploy Django into Production with Kubernetes, Docker, &amp; Github Actions
 
+Following along with [this tutorial](https://www.youtube.com/watch?v=NAOsLaB6Lfc&t=63s).
+
 
 ### Django
 Install Django:
