@@ -35,7 +35,7 @@ code .env
 
 Add web/.env to .gitignore
 
-### Helpful kubectl commands
+### Helpful kubectl & docker commands
 
 ```kubectl get pods```
 
@@ -43,6 +43,10 @@ Add web/.env to .gitignore
 
 ```kubectl get deployments```
 
+build container images
+```docker compose up --build```
+
+```docker images```
 
 ### Django
 Install Django:
