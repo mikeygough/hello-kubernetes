@@ -35,6 +35,15 @@ code .env
 
 Add web/.env to .gitignore
 
+### Helpful kubectl commands
+
+```kubectl get pods```
+
+```kubectl get services```
+
+```kubectl get deployments```
+
+
 ### Django
 Install Django:
 
